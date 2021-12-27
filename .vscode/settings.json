@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 18,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.wordWrap": "on",
+    "editor.bracketPairColorization.enabled": true
+}
