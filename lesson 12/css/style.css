@@ -43,6 +43,7 @@ body{
    background-color: rgb(59, 46, 248);
    color: #fff;
 }
+/* Верхяя чать фикс и не движеться при скроллинге */
 .block_4{
    background-color: rgb(97, 102, 91);
    position: static;
